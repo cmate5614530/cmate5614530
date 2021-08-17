@@ -1,4 +1,4 @@
-### Welcome to my profile! :tada: 👋
+### 👋 Welcome to my profile! :tada: 
 
 <!--
 **cmate5614530/cmate5614530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+- 😄 Since I started web development 7 years ago, I have tried to give clients only satisfied result on time.
+- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- :sunny: I will implement your great idea to be alive.
+- :revolving_hearts: I work full time and prefer long-term collaboration.
+- :trophy: I like challenge work and especially :football: :basketball: :baseball: :game_die: :hearts:
+- :email: You can send mail or contact me via skype
