@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 - :sunny: I will implement your great idea to be alive.
 - :revolving_hearts: I work full time and prefer long-term collaboration.
 - :trophy: I like challenge work and especially :football: :basketball: :baseball: :game_die: :hearts:
-- :email: You can [send mail](mailto:cmate5614530@gmail.com) or contact me via skype
+- :email: You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D)
+### My Skills
+- Vue.js, React.js, Node.js
+- Laravel
+- CRM / ERP
