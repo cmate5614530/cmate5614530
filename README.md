@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ✔ CRM/ERP : Zoho(One, Creator, Analytics, Campaign...), Netsuite, Salesforce, Perfex, Suite/Sugar  
 ✔ Blockchain : Bitcoin, Ethereum, BSC, Forking Pancakeswap, GooseDefi...  
 ✔ B2B2C eCommerce CMS : WordPress/WooCommerce  
+✔ MySQL/MariaDB, NoSQL/MongoDB, PostgreSQL, SQLite, Google Firebase, Redis    
 
 I prefer long-term relationship and value credit & quality.  
 
