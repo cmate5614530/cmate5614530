@@ -21,16 +21,15 @@ Here are some ideas to get you started:
 - :revolving_hearts: I work full time and prefer long-term collaboration.
 - :trophy: I like challenge work and especially :football: :basketball: :baseball: :game_die: :hearts:
 - :email: You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D)
-### My Skills
-✔ ✏ JavaScript :  
-✔   ★ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
-✔   ★ VueJS(VueX, Vuetify, Nuxt..),  
-✔   ★ NodeJS/Express,  
-✔   ★ D3.js, Typescript, Socket.IO, WebRTC  
-✔ ✏ PHP : Laravel(v5, v6, v7, v8), CodeIgniter  
-✔ ✏ CRM/ERP : Zoho(One, Creator, Analytics, Campaign...), Netsuite, Salesforce, Perfex, Suite/Sugar  
-✔ ✏ Blockchain : Bitcoin, Ethereum, BSC, Forking Pancakeswap, GooseDefi...  
-✔ ✏ B2B2C eCommerce CMS : WordPress/WooCommerce  
+### My Skills 
+✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
+✔ VueJS(VueX, Vuetify, Nuxt..),  
+✔ NodeJS/Express,  
+✔ D3.js, Typescript, Socket.IO, WebRTC  
+✔ Laravel(v5, v6, v7, v8), CodeIgniter  
+✔ CRM/ERP : Zoho(One, Creator, Analytics, Campaign...), Netsuite, Salesforce, Perfex, Suite/Sugar  
+✔ Blockchain : Bitcoin, Ethereum, BSC, Forking Pancakeswap, GooseDefi...  
+✔ B2B2C eCommerce CMS : WordPress/WooCommerce  
 
 I prefer long-term relationship and value credit & quality.  
 
