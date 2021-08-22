@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 I prefer long-term relationship and value credit & quality.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers,PullRequest,Organizations)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers,PullRequest,Organization)]
 
 
