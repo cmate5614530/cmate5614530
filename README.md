@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 <!--![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cmate5614530&theme=react-dark)-->
 
 ### About Me
-- Since I started web development 7 years ago, I have tried to give clients only satisfied result on time.
-- Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- As a full stack developer with Web2 & Web3, I have been doing my best to give clients only satisfied results.
+- I always keep learning trending & innovative technologies/skills.
 - I will implement your great idea to be alive.
 - I work full time and prefer long-term collaboration.
-- I like challenge work and especially :football: :basketball: :baseball: :game_die: :hearts:
 - You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D)
 ### My Skills 
 ✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
