@@ -16,24 +16,21 @@ Here are some ideas to get you started:
 -->
 <!--![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cmate5614530&theme=react-dark)-->
 
-### About Me
+<!-- ### About Me
 - As a full stack developer with Web2 & Web3, I have been doing my best to give clients only satisfied results.
 - I always keep learning trending & innovative technologies/skills.
 - I will make your great idea live.
 - I work full time and prefer long-term collaboration.
 - You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D)
-### My Skills 
+### My Skills  -->
 ✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
 ✔ VueJS(VueX, Vuetify, Nuxt..),  
 ✔ NodeJS/Express,  
-✔ D3.js, Typescript, Socket.IO, WebRTC  
 ✔ Laravel(v5, v6, v7, v8), CodeIgniter  
 ✔ CRM/ERP : Zoho(One, Creator, Analytics, Campaign...), Netsuite, Salesforce, Perfex, Suite/Sugar  
-✔ Blockchain : Bitcoin, Ethereum, BSC, Forking Pancakeswap, GooseDefi...  
-✔ B2B2C eCommerce CMS : WordPress/WooCommerce  
+✔ CMS : WordPress/WooCommerce  
 ✔ MySQL/MariaDB, NoSQL/MongoDB, PostgreSQL, SQLite, Google Firebase, Redis    
 
-I value credit & quality.  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers)
 
