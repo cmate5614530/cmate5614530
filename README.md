@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - I work full time and prefer long-term collaboration.
 - You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D)
 ### My Skills  -->
-I have been dealing with Sports Betting and Online Casino System for years.
-Welcome for anyone wants to build own bookie and all-in-one system.
+I have been dealing with Sports Betting and Online Casino System for years.  
+Welcome for anyone wants to build own bookie and all-in-one system.  
 ✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
 ✔ VueJS(VueX, Vuetify, Nuxt..),  
 ✔ NodeJS/Express,  
