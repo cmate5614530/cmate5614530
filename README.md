@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### My Skills  -->
 I have been dealing with Sports Betting and Online Casino System for years.  
 Welcome for anyone wants to build own bookie and all-in-one system.  
+I have strong skills with both website and webapp(PWA) development.  
   
 ✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
 ✔ VueJS(VueX, Vuetify, Nuxt..),  
