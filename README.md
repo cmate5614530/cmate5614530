@@ -35,7 +35,9 @@ I have strong skills with both website and webapp(PWA) development.
 ✔ CMS : WordPress/WooCommerce  
 ✔ MySQL/MariaDB, NoSQL/MongoDB, PostgreSQL, SQLite, Google Firebase, Redis    
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers)
+<!-- 
+![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers) -->
+<img src="img/1.png" width="500">
+<img src="img/2.png" width="500">
 
 
