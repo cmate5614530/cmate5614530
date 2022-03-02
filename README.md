@@ -1,20 +1,5 @@
 ## 👋 Welcome to my profile!   
 
-<!--
-**cmate5614530/cmate5614530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cmate5614530&theme=react-dark)-->
 
 <!-- ### About Me
 - As a full stack developer with Web2 & Web3, I have been doing my best to give clients only satisfied results.
@@ -37,6 +22,9 @@ I have strong skills with both website and webapp(PWA) development.
 
 <!-- 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers) -->
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](img/1.png)  |  ![](img/2.png)
 <img src="img/1.png" width="500">
 <img src="img/2.png" width="500">
 
