@@ -34,6 +34,10 @@ I have strong skills with both website and webapp(PWA) development.
   <img src="img/7.jpg" width="49%"/>
   <img src="img/5.jpg" width="49%"/>
   <img src="img/6.jpg" width="49%"/>
+  <img src="img/10.jpg" width="49%"/>
+  <img src="img/11.jpg" width="49%"/>
+  <img src="img/14.jpg" width="49%"/>
+  <img src="img/13.jpg" width="49%"/>
 </p>
 
 
