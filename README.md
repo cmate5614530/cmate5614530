@@ -12,7 +12,9 @@ As a professional web developer, I have been dealing with Sports Betting and Onl
 Welcome for anyone wants to build own bookie and all-in-one system.  
 
 I have strong skills with both website and webapp(PWA) development.  
-  
+
+You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D
+
 ✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
 ✔ VueJS(VueX, Vuetify, Nuxt..),  
 ✔ NodeJS/Express,  
