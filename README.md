@@ -47,10 +47,10 @@ I have strong skills with both website and webapp(PWA) development.
 
 ### A/B Testing System
 <p float="left" width="100%">
-  <img src="img/14.jpg" width="49%"/>
-  <img src="img/13.jpg" width="49%"/>
-  <img src="img/13.jpg" width="49%"/>
-  <img src="img/13.jpg" width="49%"/>
+  <img src="img/16.jpg" width="49%"/>
+  <img src="img/15.jpg" width="49%"/>
+  <img src="img/17.jpg" width="49%"/>
+  <img src="img/18.jpg" width="49%"/>
 </p>
 
 
