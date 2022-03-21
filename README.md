@@ -32,6 +32,7 @@ You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](htt
   <img src="img/4.jpg" width="49%"/>
   <img src="img/3.jpg" width="49%"/>
   <img src="img/2.jpg" width="49%"/>
+  <img src="img/19.jpg" width="49%"/>
   <img src="img/8.jpg" width="49%"/>
   <img src="img/9.jpg" width="49%"/>
   <img src="img/7.jpg" width="49%"/> 
