@@ -48,8 +48,8 @@ I have strong skills with both website and webapp(PWA) development.
 
 ### - Booking System
 <p float="left" width="100%">
-  <img src="img/14.jpg" width="49%"/>
-  <img src="img/13.jpg" width="49%"/>
+  <img src="img/14.png" width="49%"/>
+  <img src="img/13.png" width="49%"/>
   <img src="img/21.jpg" width="49%"/>
   <img src="img/22.jpg" width="49%"/>
 </p>
