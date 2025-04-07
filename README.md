@@ -18,7 +18,7 @@ You can [send mail](mailto:cmate5614530@gmail.com) or contact me via [skype](htt
 ✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
 ✔ VueJS(VueX, Vuetify, Nuxt..),  
 ✔ NodeJS/Express,  
-✔ Laravel(v5, v6, v7, v8), CodeIgniter  
+✔ Laravel(~ v11), CodeIgniter  
 ✔ Flutter, Swift  
 ✔ CRM/ERP : Zoho(One, Creator, Analytics, Campaign...), Netsuite, Salesforce, Perfex, Suite/Sugar  
 ✔ CMS : WordPress/WooCommerce  
