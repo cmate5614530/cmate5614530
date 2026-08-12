@@ -2,28 +2,16 @@
 
 
  ### About Me
-- As a full stack developer with Web2 & Web3, I have been doing my best to give clients only satisfied results.
-- I always keep learning trending & innovative technologies/skills.
-- I will make your great idea live.
-- I work full time and prefer long-term collaboration.
-- You can [send mail](mailto:zlypavel1@gmail.com) or contact me via [Teams](https://teams.live.com/l/community/FBAnnDJ8J0JeahUpA)
+Senior Software Engineer with 10+ years of experience building scalable software platforms, AI-powered applications, and data-driven solutions across SaaS, fintech, healthcare, eCommerce, and enterprise industries. Experienced in designing and delivering end-to-end systems, from product architecture and backend platforms to machine learning solutions, analytics workflows, and intelligent applications. Proven ability to solve complex technical challenges, transform business requirements into reliable products, and collaborate with cross-functional engineering, product, and data teams. Passionate about leveraging modern technologies, data, and AI to build impactful solutions, improve user experiences, and drive business growth.
+
 ### My Skills  
-As a professional full stack developer, I have been dealing with Sports Betting and Online Casino System for years.  
-Welcome for anyone wants to build own bookie and all-in-one system.  
 
-I have strong skills with both website and webapp(PWA) development.  
-
-You can [send mail](mailto:zlypavel1@gmail.com) or contact me via [Teams](https://teams.live.com/l/community/FBAnnDJ8J0JeahUpA) 
-
-✔ ReactJS(MaterialUI, AntD, MDB, Next.js, Redux...),  
-✔ VueJS(VueX, Vuetify, Nuxt..),  
-✔ NodeJS/Express,  
-✔ Laravel, CodeIgniter  
-✔ Flutter, Swift  
-✔ CRM/ERP : Zoho(One, Creator, Analytics, Campaign...), Netsuite, Salesforce, Perfex, Suite/Sugar  
-✔ CMS : WordPress/WooCommerce  
-✔ MySQL/MariaDB, NoSQL/MongoDB, PostgreSQL, SQLite, Google Firebase, Redis    
-
+✔ Python AI/ML,  
+✔ React,  
+✔ Java,  
+✔ Spring Boot,
+✔ Golang,  
+✔ Data Science
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers) 
 <!--
