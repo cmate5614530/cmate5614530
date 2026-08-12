@@ -11,6 +11,7 @@ Senior Software Engineer with 10+ years of experience building scalable software
 ✔ Java,  
 ✔ Spring Boot,
 ✔ Golang,  
+✔ Laravel,
 ✔ Data Science
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=cmate5614530&theme=onedark&title=MultiLanguage,Commit,Repositories,Stars,Followers) 
